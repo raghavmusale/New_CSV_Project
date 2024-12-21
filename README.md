@@ -147,12 +147,6 @@ A sample CSV file is included in the repository as `sample.csv`. This file can b
 
 ---
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
 ## Author
 
 Developed by Raghavendra
